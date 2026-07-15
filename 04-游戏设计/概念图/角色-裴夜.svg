@@ -1,0 +1,46 @@
+<svg viewBox="0 0 16 16" width="512" height="512" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+<!-- Background -->
+<rect width="16" height="16" fill="#1a1a2e"/>
+<!-- Short hair -->
+<rect x="4" y="1" width="8" height="1" fill="#1A1A1A"/>
+<rect x="3" y="2" width="10" height="1" fill="#1A1A1A"/>
+<rect x="3" y="3" width="1" height="8" fill="#1A1A1A"/>
+<rect x="12" y="3" width="1" height="8" fill="#1A1A1A"/>
+<!-- Face -->
+<rect x="4" y="3" width="8" height="1" fill="#1A1A1A"/>
+<rect x="4" y="4" width="8" height="2" fill="#FFCC80"/>
+<!-- Eyes (cold grey-blue) -->
+<rect x="5" y="6" width="1" height="1" fill="#37474F"/>
+<rect x="10" y="6" width="1" height="1" fill="#37474F"/>
+<rect x="4" y="7" width="8" height="1" fill="#FFCC80"/>
+<!-- Thin mouth -->
+<rect x="6" y="7" width="4" height="1" fill="#D4A05A"/>
+<!-- Square jaw (wider bottom) -->
+<rect x="3" y="8" width="10" height="1" fill="#FFCC80"/>
+<!-- Thick neck -->
+<rect x="5" y="8" width="6" height="1" fill="#FFCC80"/>
+<!-- Wide shoulders -->
+<rect x="2" y="9" width="12" height="1" fill="#212121"/>
+<rect x="2" y="10" width="12" height="3" fill="#212121"/>
+<rect x="3" y="10" width="10" height="1" fill="#424242"/>
+<!-- Arms (thicker) -->
+<rect x="1" y="10" width="1" height="3" fill="#FFCC80"/>
+<rect x="14" y="10" width="1" height="3" fill="#FFCC80"/>
+<!-- Left wrist scar (signature) -->
+<rect x="1" y="12" width="1" height="1" fill="#8D6E63"/>
+<rect x="1" y="13" width="1" height="1" fill="#8D6E63"/>
+<!-- Belt -->
+<rect x="3" y="12" width="10" height="1" fill="#424242"/>
+<!-- Legs -->
+<rect x="4" y="13" width="3" height="2" fill="#212121"/>
+<rect x="9" y="13" width="3" height="2" fill="#212121"/>
+<!-- Boots -->
+<rect x="4" y="15" width="3" height="1" fill="#212121"/>
+<rect x="9" y="15" width="3" height="1" fill="#212121"/>
+<!-- Hair highlights -->
+<rect x="5" y="2" width="4" height="1" fill="#333333"/>
+<!-- Lightning aura (right hand area) -->
+<rect x="14" y="13" width="1" height="1" fill="#E1BEE7"/>
+<rect x="15" y="12" width="1" height="1" fill="#B39DDB"/>
+<rect x="15" y="13" width="1" height="1" fill="#E1BEE7"/>
+</svg>
